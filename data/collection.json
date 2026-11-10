@@ -2217,6 +2217,24 @@
       "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119911161386934330-preview.webp",
       "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119911161386934330-video.mp4",
       "durationSeconds": 37.01
+    },
+    {
+      "id": "lemomo-ai-193682",
+      "title": "Let Fable take Flight: 24,000 pages of fables take wing in a midnight library",
+      "titleZh": "寓言乘风：深夜图书馆里，两万四千页寓言随风飞舞",
+      "category": "film",
+      "author": {
+        "name": "Lemomo",
+        "handle": "lemomo_ai",
+        "url": "https://x.com/lemomo_ai"
+      },
+      "sourceUrl": "https://x.com/lemomo_ai/status/2120118194409193682",
+      "publishedAt": "2026-11-10T11:35:42Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120118194409193682-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120118194409193682-video.mp4",
+      "durationSeconds": 55.06
     }
   ],
   "routes": [
