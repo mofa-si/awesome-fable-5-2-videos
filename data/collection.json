@@ -4,12 +4,12 @@
   "kind": "video",
   "title": "Awesome Claude Fable 5.2 Videos",
   "titleZh": "Claude Fable 5.2 视频作品精选",
-  "description": "A curated collection of videos made with Claude Fable 5.2 (Anthropic) and shared on X — launch films, 3D scenes in Blender and Three.js, browser games, interactive toys, music and short films written entirely in code, plus same-prompt model comparisons — with original files, creator credits and verbatim public prompts. Fable 5.2 writes the script and the code; to turn your own idea into an AI short drama with real footage, open it in DramaSo.",
-  "descriptionZh": "收集 X 上用 Claude Fable 5.2（Anthropic）做出的视频作品：发布片、Blender 和 Three.js 里的 3D 场景、浏览器游戏、交互小玩具、纯代码写出的音乐和短片，以及同提示词的模型对比；附原视频文件、创作者署名和公开的原文提示词。Fable 5.2 负责写剧本和代码，想把你自己的创意拍成有真实画面的 AI 短剧，可以带进 DramaSo 直接开拍。",
+  "description": "A curated collection of videos made with Claude Fable 5.2 (Anthropic) and shared on X — launch films, 3D scenes in Blender and Three.js, browser games, interactive toys, music and short films written entirely in code, plus same-prompt model comparisons — with original files, creator credits and verbatim public prompts. Fable 5.2 writes the script and the code; to turn your own idea into an AI short drama with real footage, open it in DramaSo. Music videos link to SunoMV instead.",
+  "descriptionZh": "收集 X 上用 Claude Fable 5.2（Anthropic）做出的视频作品：发布片、Blender 和 Three.js 里的 3D 场景、浏览器游戏、交互小玩具、纯代码写出的音乐和短片，以及同提示词的模型对比；附原视频文件、创作者署名和公开的原文提示词。Fable 5.2 负责写剧本和代码，想把你自己的创意拍成有真实画面的 AI 短剧，可以带进 DramaSo 直接开拍。音乐 MV 类作品回链 SunoMV。",
   "model": "Claude Fable 5.2",
   "collectedOn": "2026-11-10",
   "publicationCutoffUtc": "2026-11-09T18:00:00Z",
-  "maxDurationSeconds": 120,
+  "maxDurationSeconds": 300,
   "topics": [
     "claude",
     "claude-fable",
@@ -63,14 +63,14 @@
       "zh": "游戏与交互"
     },
     {
-      "id": "music",
-      "en": "Music",
-      "zh": "音乐"
-    },
-    {
       "id": "comparison",
       "en": "Model comparisons",
       "zh": "模型对比"
+    },
+    {
+      "id": "mv",
+      "en": "Music & music videos",
+      "zh": "音乐与 MV"
     }
   ],
   "entries": [
@@ -1610,7 +1610,7 @@
       "id": "aug5thmusic-404780",
       "title": "A Bach-style chorale written in LilyPond",
       "titleZh": "用 LilyPond 写的巴赫风四部合唱",
-      "category": "music",
+      "category": "mv",
       "author": {
         "name": "Auggie",
         "handle": "aug5thmusic",
@@ -1875,6 +1875,364 @@
       "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119867114450268322-preview.webp",
       "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119867114450268322-video.mp4",
       "durationSeconds": 18.58
+    },
+    {
+      "id": "geekcatx-600288",
+      "title": "A music video: Suno MCP song, GPT-Image-2.6 art, MiniMax H3 footage, edited by Fable 5.2",
+      "titleZh": "一支 MV：Suno MCP 出歌、GPT-Image-2.6 出图、MiniMax H3 出素材，Fable 5.2 剪辑",
+      "category": "mv",
+      "author": {
+        "name": "知识猫",
+        "handle": "GeekCatX",
+        "url": "https://x.com/GeekCatX"
+      },
+      "sourceUrl": "https://x.com/GeekCatX/status/2120047939737600288",
+      "publishedAt": "2026-11-10T06:56:32Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120047939737600288-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120047939737600288-video.mp4",
+      "durationSeconds": 97.02
+    },
+    {
+      "id": "kloss-xyz-032150",
+      "title": "Fable 5.2 writes its own song, makes it in Suno v6, then films the music video",
+      "titleZh": "Fable 5.2 自己写歌、用 Suno v6 做出来，再拍成 MV",
+      "category": "mv",
+      "author": {
+        "name": "klöss",
+        "handle": "kloss_xyz",
+        "url": "https://x.com/kloss_xyz"
+      },
+      "sourceUrl": "https://x.com/kloss_xyz/status/2120065790003032150",
+      "publishedAt": "2026-11-10T08:07:27Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120065790003032150-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120065790003032150-video.mp4",
+      "durationSeconds": 152.85
+    },
+    {
+      "id": "peach2k2-738033",
+      "title": "A Vocaloid love song for Teto, composed in one shot",
+      "titleZh": "一次写成的重音 Teto 情歌",
+      "category": "mv",
+      "author": {
+        "name": "« 2k2 »",
+        "handle": "peach2k2",
+        "url": "https://x.com/peach2k2"
+      },
+      "sourceUrl": "https://x.com/peach2k2/status/2119885741773738033",
+      "publishedAt": "2026-11-09T20:12:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119885741773738033-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119885741773738033-video.mp4",
+      "durationSeconds": 24.71
+    },
+    {
+      "id": "gorden-sun-832595",
+      "title": "Chinese pop from the 1980s to the 2010s, in one video",
+      "titleZh": "一支视频唱完 80 到 10 年代的华语流行",
+      "category": "mv",
+      "author": {
+        "name": "Gorden Sun",
+        "handle": "Gorden_Sun",
+        "url": "https://x.com/Gorden_Sun"
+      },
+      "sourceUrl": "https://x.com/Gorden_Sun/status/2120069883597832595",
+      "publishedAt": "2026-11-10T08:23:43Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120069883597832595-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120069883597832595-video.mp4",
+      "durationSeconds": 231.15
+    },
+    {
+      "id": "rjasonha-099768",
+      "title": "A symphony composed by Fable 5.2",
+      "titleZh": "Fable 5.2 写的交响乐",
+      "category": "mv",
+      "author": {
+        "name": "Fries",
+        "handle": "RJasonHA",
+        "url": "https://x.com/RJasonHA"
+      },
+      "sourceUrl": "https://x.com/RJasonHA/status/2120007540713099768",
+      "publishedAt": "2026-11-10T04:16:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120007540713099768-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120007540713099768-video.mp4",
+      "durationSeconds": 248.57
+    },
+    {
+      "id": "cryptoninjanime-296118",
+      "title": "A lyric video built to show off Fable 5.2",
+      "titleZh": "为展示 Fable 5.2 实力做的歌词 MV",
+      "category": "mv",
+      "author": {
+        "name": "りょー｜AI動画制作・編集",
+        "handle": "cryptoninjanime",
+        "url": "https://x.com/cryptoninjanime"
+      },
+      "sourceUrl": "https://x.com/cryptoninjanime/status/2120030522395296118",
+      "publishedAt": "2026-11-10T05:47:19Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120030522395296118-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120030522395296118-video.mp4",
+      "durationSeconds": 48.9
+    },
+    {
+      "id": "noel-ai-lab-151229",
+      "title": "Fable 5.2's intro video, with a song it made through Suno MCP",
+      "titleZh": "Fable 5.2 的自我介绍片，歌是它通过 Suno MCP 自己做的",
+      "category": "mv",
+      "author": {
+        "name": "のえる｜AI構築者",
+        "handle": "noel_ai_lab",
+        "url": "https://x.com/noel_ai_lab"
+      },
+      "sourceUrl": "https://x.com/noel_ai_lab/status/2120095087397151229",
+      "publishedAt": "2026-11-10T10:03:52Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120095087397151229-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120095087397151229-video.mp4",
+      "durationSeconds": 43.54
+    },
+    {
+      "id": "asagilf-851832",
+      "title": "An anime MV: song by Suno, footage by MiniMax H3, edit by Fable 5.2",
+      "titleZh": "动漫 MV：Suno 出歌、MiniMax H3 出画面、Fable 5.2 剪辑",
+      "category": "mv",
+      "author": {
+        "name": "asagi",
+        "handle": "asagilf",
+        "url": "https://x.com/asagilf"
+      },
+      "sourceUrl": "https://x.com/asagilf/status/2119943989654851832",
+      "publishedAt": "2026-11-10T00:03:28Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119943989654851832-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119943989654851832-video.mp4",
+      "durationSeconds": 23.88
+    },
+    {
+      "id": "chika-no-akari-844688",
+      "title": "\"Inazuma Accel\", a running-and-singing PV made in 3.5 hours",
+      "titleZh": "三个半小时做完的边跑边唱 PV《稲妻アクセル》",
+      "category": "mv",
+      "author": {
+        "name": "Chika no Akari",
+        "handle": "chika_no_akari",
+        "url": "https://x.com/chika_no_akari"
+      },
+      "sourceUrl": "https://x.com/chika_no_akari/status/2120122667533844688",
+      "publishedAt": "2026-11-10T11:53:28Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120122667533844688-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120122667533844688-video.mp4",
+      "durationSeconds": 139.92
+    },
+    {
+      "id": "aiwithyou1-082967",
+      "title": "A Kasane Teto song and MV, planned with Opus 5.5",
+      "titleZh": "和 Opus 5.5 一起策划的重音 Teto 歌曲与 MV",
+      "category": "mv",
+      "author": {
+        "name": "あいきみ",
+        "handle": "AiWithYou1",
+        "url": "https://x.com/AiWithYou1"
+      },
+      "sourceUrl": "https://x.com/AiWithYou1/status/2120115521094082967",
+      "publishedAt": "2026-11-10T11:25:04Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120115521094082967-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120115521094082967-video.mp4",
+      "durationSeconds": 110.12
+    },
+    {
+      "id": "pontology-062941",
+      "title": "A song re-visualized with abstract motion",
+      "titleZh": "给一首歌换上抽象动态的新画面",
+      "category": "mv",
+      "author": {
+        "name": "Emil Post",
+        "handle": "Pontology_",
+        "url": "https://x.com/Pontology_"
+      },
+      "sourceUrl": "https://x.com/Pontology_/status/2120055077495062941",
+      "publishedAt": "2026-11-10T07:24:53Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120055077495062941-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120055077495062941-video.mp4",
+      "durationSeconds": 177.04
+    },
+    {
+      "id": "immunehack-786442",
+      "title": "A music video where every frame is code: \"make it spectacular\"",
+      "titleZh": "每一帧都是代码的 MV：「做得震撼一点」",
+      "category": "mv",
+      "author": {
+        "name": "Tyrone Williams",
+        "handle": "ImmuneHack",
+        "url": "https://x.com/ImmuneHack"
+      },
+      "sourceUrl": "https://x.com/ImmuneHack/status/2119934918230786442",
+      "publishedAt": "2026-11-09T23:27:25Z",
+      "prompt": "make it spectacular.",
+      "promptSourceUrl": "https://x.com/ImmuneHack/status/2119934918230786442",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119934918230786442-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119934918230786442-video.mp4",
+      "durationSeconds": 236.84
+    },
+    {
+      "id": "vlads1776-233371",
+      "title": "\"OOPS (We Did It Again!)\", a Claude Fable 5.2 music video",
+      "titleZh": "《OOPS (We Did It Again!)》：Claude Fable 5.2 的 MV",
+      "category": "mv",
+      "author": {
+        "name": "The Romanian Mr. Morale",
+        "handle": "vlads1776",
+        "url": "https://x.com/vlads1776"
+      },
+      "sourceUrl": "https://x.com/vlads1776/status/2119957316552233371",
+      "publishedAt": "2026-11-10T00:56:25Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119957316552233371-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119957316552233371-video.mp4",
+      "durationSeconds": 260.53
+    },
+    {
+      "id": "xref-me-652456",
+      "title": "\"Sparks in the Latent Space\", a single made entirely with Fable 5.2",
+      "titleZh": "全程用 Fable 5.2 做的单曲 MV《Sparks in the Latent Space》",
+      "category": "mv",
+      "author": {
+        "name": "说人话",
+        "handle": "xref_me",
+        "url": "https://x.com/xref_me"
+      },
+      "sourceUrl": "https://x.com/xref_me/status/2120118572848652456",
+      "publishedAt": "2026-11-10T11:37:12Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120118572848652456-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120118572848652456-video.mp4",
+      "durationSeconds": 226.79
+    },
+    {
+      "id": "danialbka-495466",
+      "title": "Suno × Fable 5.2",
+      "titleZh": "Suno × Fable 5.2",
+      "category": "mv",
+      "author": {
+        "name": "Dan",
+        "handle": "danialbka",
+        "url": "https://x.com/danialbka"
+      },
+      "sourceUrl": "https://x.com/danialbka/status/2120116924189495466",
+      "publishedAt": "2026-11-10T11:30:39Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120116924189495466-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120116924189495466-video.mp4",
+      "durationSeconds": 78.17
+    },
+    {
+      "id": "svarshal-822083",
+      "title": "One prompt, Claude connected to the Suno MCP",
+      "titleZh": "一句提示词，Claude 接上 Suno MCP 做出的音乐视频",
+      "category": "mv",
+      "author": {
+        "name": "Shahar Varshal",
+        "handle": "SVarshal",
+        "url": "https://x.com/SVarshal"
+      },
+      "sourceUrl": "https://x.com/SVarshal/status/2120030951505822083",
+      "publishedAt": "2026-11-10T05:49:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120030951505822083-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120030951505822083-video.mp4",
+      "durationSeconds": 99.65
+    },
+    {
+      "id": "yuziyyaa-742430",
+      "title": "A hit-style song and video from one short prompt",
+      "titleZh": "一段简短提示词做出的热门风歌曲和画面",
+      "category": "mv",
+      "author": {
+        "name": "Youzi",
+        "handle": "Yuziyyaa",
+        "url": "https://x.com/Yuziyyaa"
+      },
+      "sourceUrl": "https://x.com/Yuziyyaa/status/2120063892080742430",
+      "publishedAt": "2026-11-10T07:59:55Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120063892080742430-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120063892080742430-video.mp4",
+      "durationSeconds": 143.71
+    },
+    {
+      "id": "anxuanng-407036",
+      "title": "A groove sim inside record players from 1877, 1925 and 1979",
+      "titleZh": "在 1877、1925、1979 年三台唱机里播放的律动模拟",
+      "category": "mv",
+      "author": {
+        "name": "An Xuan",
+        "handle": "anxuanng",
+        "url": "https://x.com/anxuanng"
+      },
+      "sourceUrl": "https://x.com/anxuanng/status/2120099787475407036",
+      "publishedAt": "2026-11-10T10:22:33Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120099787475407036-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120099787475407036-video.mp4",
+      "durationSeconds": 69.65
+    },
+    {
+      "id": "wesroth-934330",
+      "title": "An anime music video with timed lyrics",
+      "titleZh": "歌词卡点的动漫风音乐视频",
+      "category": "mv",
+      "author": {
+        "name": "Wes Roth",
+        "handle": "WesRoth",
+        "url": "https://x.com/WesRoth"
+      },
+      "sourceUrl": "https://x.com/WesRoth/status/2119911161386934330",
+      "publishedAt": "2026-11-09T21:53:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119911161386934330-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119911161386934330-video.mp4",
+      "durationSeconds": 37.01
+    }
+  ],
+  "routes": [
+    {
+      "category": "mv",
+      "project": "sunomv",
+      "site": {
+        "name": "SunoMV",
+        "host": "suno.bi",
+        "landingUrl": "https://suno.bi/mcp",
+        "landingUrlZh": "https://suno.bi/zh/mcp",
+        "cta": "Make the song with Suno MCP, then turn it into a music video on SunoMV",
+        "ctaZh": "用 Suno MCP 出歌，再到 SunoMV 一键出 MV"
+      },
+      "description": "Music videos made with Claude Fable 5.2: songs generated through Suno (often via the Suno MCP), visuals and edits written by Fable 5.2 in code. Fable 5.2 directs the video. To go from your own song to a finished music video, connect SunoMV to Claude through suno.bi/mcp (song from Suno, music video from SunoMV), or upload the track to the SunoMV music video generator.",
+      "descriptionZh": "用 Claude Fable 5.2 做的音乐 MV：歌大多由 Suno 生成（不少走的是 Suno MCP），画面和剪辑由 Fable 5.2 写代码完成。Fable 5.2 负责导演这支视频。想从自己的歌直接做成 MV，可以通过 suno.bi/mcp 把 SunoMV 接进 Claude（Suno 出歌，SunoMV 出 MV），也可以把歌传到 SunoMV 的 MV 生成器。"
     }
   ]
 }

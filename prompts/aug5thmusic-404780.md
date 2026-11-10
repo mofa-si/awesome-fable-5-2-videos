@@ -1,8 +1,8 @@
 # A Bach-style chorale written in LilyPond
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119879319426404780-preview.webp)](https://drama.so/prompts/fable-5-2/aug5thmusic-404780?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=aug5thmusic-404780)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119879319426404780-preview.webp)](https://suno.bi/mcp?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=aug5thmusic-404780)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/prompts/fable-5-2/aug5thmusic-404780?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=aug5thmusic-404780)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119879319426404780-video.mp4) · [Source post](https://x.com/aug5thmusic/status/2119879319426404780)
+**[▶ Make the song with Suno MCP, then turn it into a music video on SunoMV](https://suno.bi/mcp?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=aug5thmusic-404780)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119879319426404780-video.mp4) · [Source post](https://x.com/aug5thmusic/status/2119879319426404780)
 
 - Author / credit: Auggie (@aug5thmusic)
 - Duration: 45.15 seconds
@@ -22,4 +22,4 @@ Prompt source: https://x.com/aug5thmusic/status/2119879973318414392
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Claude Fable 5.2 work on DramaSo →](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
+[More Claude Fable 5.2 work on SunoMV →](https://suno.bi/mcp?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
