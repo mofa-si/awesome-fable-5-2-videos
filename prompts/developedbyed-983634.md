@@ -1,8 +1,8 @@
 # Opus 5.5 (top) vs Fable 5.2 (bottom)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119898145777983634-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=developedbyed-983634)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119898145777983634-preview.webp)](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=developedbyed-983634#comparison)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=developedbyed-983634)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119898145777983634-video.mp4) · [Source post](https://x.com/developedbyed/status/2119898145777983634)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=developedbyed-983634#comparison)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119898145777983634-video.mp4) · [Source post](https://x.com/developedbyed/status/2119898145777983634)
 
 - Author / credit: Dev Ed (@developedbyed)
 - Duration: 12.00 seconds
@@ -18,4 +18,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Claude Fable 5.2 work on DramaSo →](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
+[More Claude Fable 5.2 work on DramaSo →](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)

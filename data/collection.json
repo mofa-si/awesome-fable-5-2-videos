@@ -30,7 +30,8 @@
     "landingUrl": "https://drama.so/",
     "landingUrlZh": "https://drama.so/zh",
     "cta": "Turn your idea into an AI short drama on DramaSo",
-    "ctaZh": "在 DramaSo 把你的创意拍成 AI 短剧"
+    "ctaZh": "在 DramaSo 把你的创意拍成 AI 短剧",
+    "pagesUrl": "https://drama.so/prompts/fable-5-2"
   },
   "mediaHosts": [
     "bibigpt-apps.chatvid.ai"

@@ -1,8 +1,8 @@
 # A 30-second 3D short from one prompt and a storyboard
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120075292043890890-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=haileyailabs-890890)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120075292043890890-preview.webp)](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=haileyailabs-890890#film)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=haileyailabs-890890)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120075292043890890-video.mp4) · [Source post](https://x.com/HaileyAILabs/status/2120075292043890890)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=haileyailabs-890890#film)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120075292043890890-video.mp4) · [Source post](https://x.com/HaileyAILabs/status/2120075292043890890)
 
 - Author / credit: Hailey (@HaileyAILabs)
 - Duration: 30.23 seconds
@@ -18,4 +18,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Claude Fable 5.2 work on DramaSo →](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
+[More Claude Fable 5.2 work on DramaSo →](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)

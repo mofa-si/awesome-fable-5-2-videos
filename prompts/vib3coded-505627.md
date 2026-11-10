@@ -1,8 +1,8 @@
 # Daybreak Switch: a night-to-day volume slider
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119876781700505627-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=vib3coded-505627)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119876781700505627-preview.webp)](https://drama.so/prompts/fable-5-2/vib3coded-505627?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=vib3coded-505627)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=vib3coded-505627)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119876781700505627-video.mp4) · [Source post](https://x.com/vib3coded/status/2119876781700505627)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/prompts/fable-5-2/vib3coded-505627?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=vib3coded-505627)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119876781700505627-video.mp4) · [Source post](https://x.com/vib3coded/status/2119876781700505627)
 
 - Author / credit: Vib3Coded (@vib3coded)
 - Duration: 12.84 seconds
@@ -85,4 +85,4 @@ Prompt source: https://x.com/vib3coded/status/2119877121732419838
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Claude Fable 5.2 work on DramaSo →](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
+[More Claude Fable 5.2 work on DramaSo →](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)

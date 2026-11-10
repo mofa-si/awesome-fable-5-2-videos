@@ -1,8 +1,8 @@
 # A 3D basketball game in Three.js
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119894656221958575-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=joshvlc-958575)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119894656221958575-preview.webp)](https://drama.so/prompts/fable-5-2/joshvlc-958575?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=joshvlc-958575)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=joshvlc-958575)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119894656221958575-video.mp4) · [Source post](https://x.com/joshvlc/status/2119894656221958575)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/prompts/fable-5-2/joshvlc-958575?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=joshvlc-958575)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119894656221958575-video.mp4) · [Source post](https://x.com/joshvlc/status/2119894656221958575)
 
 - Author / credit: Josh (@joshvlc)
 - Duration: 19.38 seconds
@@ -30,4 +30,4 @@ Prompt source: https://x.com/joshvlc/status/2119894940595695756
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Claude Fable 5.2 work on DramaSo →](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
+[More Claude Fable 5.2 work on DramaSo →](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)

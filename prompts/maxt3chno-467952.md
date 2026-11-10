@@ -1,8 +1,8 @@
 # A game-ready zombie eagle built in Blender
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119896698281467952-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=maxt3chno-467952)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119896698281467952-preview.webp)](https://drama.so/prompts/fable-5-2/maxt3chno-467952?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=maxt3chno-467952)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=maxt3chno-467952)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119896698281467952-video.mp4) · [Source post](https://x.com/maxt3chno/status/2119896698281467952)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/prompts/fable-5-2/maxt3chno-467952?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=maxt3chno-467952)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119896698281467952-video.mp4) · [Source post](https://x.com/maxt3chno/status/2119896698281467952)
 
 - Author / credit: Max (@maxt3chno)
 - Duration: 21.27 seconds
@@ -104,4 +104,4 @@ Prompt source: https://x.com/maxt3chno/status/2119896909062058411
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Claude Fable 5.2 work on DramaSo →](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
+[More Claude Fable 5.2 work on DramaSo →](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)

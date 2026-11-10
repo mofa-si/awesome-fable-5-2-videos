@@ -1,8 +1,8 @@
 # A product trailer made in 10 minutes
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119876297304203273-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=midudev-203273)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119876297304203273-preview.webp)](https://drama.so/prompts/fable-5-2/midudev-203273?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=midudev-203273)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=midudev-203273)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119876297304203273-video.mp4) · [Source post](https://x.com/midudev/status/2119876297304203273)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/prompts/fable-5-2/midudev-203273?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=midudev-203273)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119876297304203273-video.mp4) · [Source post](https://x.com/midudev/status/2119876297304203273)
 
 - Author / credit: Miguel Ángel Durán (@midudev)
 - Duration: 32.04 seconds
@@ -24,4 +24,4 @@ Prompt source: https://x.com/midudev/status/2119876298940051523
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Claude Fable 5.2 work on DramaSo →](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
+[More Claude Fable 5.2 work on DramaSo →](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)

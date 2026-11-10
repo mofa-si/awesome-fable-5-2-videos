@@ -1,8 +1,8 @@
 # Deep Dive Switch: a slider with an underwater world
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119883560937001387-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=n1njacodex-001387)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119883560937001387-preview.webp)](https://drama.so/prompts/fable-5-2/n1njacodex-001387?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=n1njacodex-001387)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=n1njacodex-001387)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119883560937001387-video.mp4) · [Source post](https://x.com/N1njaCodex/status/2119883560937001387)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/prompts/fable-5-2/n1njacodex-001387?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=n1njacodex-001387)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119883560937001387-video.mp4) · [Source post](https://x.com/N1njaCodex/status/2119883560937001387)
 
 - Author / credit: NinjaCodex (@N1njaCodex)
 - Duration: 10.86 seconds
@@ -111,4 +111,4 @@ Prompt source: https://x.com/N1njaCodex/status/2119884222475522068
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Claude Fable 5.2 work on DramaSo →](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
+[More Claude Fable 5.2 work on DramaSo →](https://drama.so/prompts/fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)
