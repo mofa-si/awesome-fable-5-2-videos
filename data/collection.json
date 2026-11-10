@@ -75,6 +75,176 @@
   ],
   "entries": [
     {
+      "id": "itskubrak-080481",
+      "title": "Motion design: why latency matters",
+      "titleZh": "动效设计：讲清网络延迟",
+      "category": "motion",
+      "author": {
+        "name": "Alex Kubrak",
+        "handle": "itskubrak",
+        "url": "https://x.com/itskubrak"
+      },
+      "sourceUrl": "https://x.com/itskubrak/status/2120182521162080481",
+      "publishedAt": "2026-11-10T15:51:18Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120182521162080481-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120182521162080481-video.mp4",
+      "durationSeconds": 34.6
+    },
+    {
+      "id": "christiancooper-982120",
+      "title": "One-shot animation of a math result from its LaTeX",
+      "titleZh": "把论文的 LaTeX 一次性变成数学动画",
+      "category": "motion",
+      "author": {
+        "name": "Christian H. Cooper",
+        "handle": "christiancooper",
+        "url": "https://x.com/christiancooper"
+      },
+      "sourceUrl": "https://x.com/christiancooper/status/2120182301648982120",
+      "publishedAt": "2026-11-10T15:50:26Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120182301648982120-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120182301648982120-video.mp4",
+      "durationSeconds": 39.17,
+      "note": "The author feeds a paper's LaTeX into a Fable 5.2 pipeline and gets the explainer animation in one shot."
+    },
+    {
+      "id": "nickyli42-341288",
+      "title": "Seven galaxies in one 32-second take, directed by Fable 5.2",
+      "titleZh": "一镜到底穿过七个星系的 32 秒短片，Fable 5.2 当导演",
+      "category": "film",
+      "author": {
+        "name": "Nicky_42",
+        "handle": "NickyLi42",
+        "url": "https://x.com/NickyLi42"
+      },
+      "sourceUrl": "https://x.com/NickyLi42/status/2120176348891341288",
+      "publishedAt": "2026-11-10T15:26:47Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120176348891341288-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120176348891341288-video.mp4",
+      "durationSeconds": 35.96,
+      "note": "Fable 5.2 wrote the shots and prompts; generation ran through the Sumi Studio MCP."
+    },
+    {
+      "id": "claudeai-897530",
+      "title": "A podcast about the Egyptian pyramids, every frame drawn in code",
+      "titleZh": "讲埃及金字塔的播客，每一帧都是代码画的",
+      "category": "official",
+      "author": {
+        "name": "Claude",
+        "handle": "claudeai",
+        "url": "https://x.com/claudeai"
+      },
+      "sourceUrl": "https://x.com/claudeai/status/2120174860252897530",
+      "publishedAt": "2026-11-10T15:20:52Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174860252897530-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174860252897530-video.mp4",
+      "durationSeconds": 126.85,
+      "note": "From Claude's official thread. Built by @kevin_t_ngo."
+    },
+    {
+      "id": "claudeai-201316",
+      "title": "Ask anything, get it explained step by step on a chalkboard",
+      "titleZh": "随便问个问题，在黑板上一步步讲给你看",
+      "category": "official",
+      "author": {
+        "name": "Claude",
+        "handle": "claudeai",
+        "url": "https://x.com/claudeai"
+      },
+      "sourceUrl": "https://x.com/claudeai/status/2120174863210201316",
+      "publishedAt": "2026-11-10T15:20:52Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174863210201316-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174863210201316-video.mp4",
+      "durationSeconds": 36.54,
+      "note": "From Claude's official thread. Built by @TylerNishida with Fable 5.2."
+    },
+    {
+      "id": "claudeai-601648",
+      "title": "A century-old landmark modelled from 40 photos and 3D-printed in one piece",
+      "titleZh": "用 40 张照片重建百年地标，一次 3D 打印成型",
+      "category": "official",
+      "author": {
+        "name": "Claude",
+        "handle": "claudeai",
+        "url": "https://x.com/claudeai"
+      },
+      "sourceUrl": "https://x.com/claudeai/status/2120174857111601648",
+      "publishedAt": "2026-11-10T15:20:51Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174857111601648-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174857111601648-video.mp4",
+      "durationSeconds": 15.64,
+      "note": "From Claude's official thread. Built by @LEJ_limited with Fable 5.2."
+    },
+    {
+      "id": "claudeai-821549",
+      "title": "Watch your subagents work inside a Claude project",
+      "titleZh": "在 Claude 项目里看着子代理干活的可视化原型",
+      "category": "official",
+      "author": {
+        "name": "Claude",
+        "handle": "claudeai",
+        "url": "https://x.com/claudeai"
+      },
+      "sourceUrl": "https://x.com/claudeai/status/2120174853856821549",
+      "publishedAt": "2026-11-10T15:20:50Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174853856821549-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174853856821549-video.mp4",
+      "durationSeconds": 27.56,
+      "note": "From Claude's official thread. Built by @TylerNishida with Fable 5.2."
+    },
+    {
+      "id": "claudeai-209154",
+      "title": "The human body in motion: same prompt, three Claude models",
+      "titleZh": "运动中的人体：同一提示词，三个 Claude 模型对比",
+      "category": "official",
+      "author": {
+        "name": "Claude",
+        "handle": "claudeai",
+        "url": "https://x.com/claudeai"
+      },
+      "sourceUrl": "https://x.com/claudeai/status/2120174850560209154",
+      "publishedAt": "2026-11-10T15:20:49Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174850560209154-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174850560209154-video.mp4",
+      "durationSeconds": 40.02,
+      "note": "From Claude's official thread. Same prompt run on Sonnet 5.5, Opus 5.5 and Fable 5.2."
+    },
+    {
+      "id": "claudeai-298730",
+      "title": "A 3D model of a cell, built in code one organelle at a time",
+      "titleZh": "用代码一个细胞器一个细胞器搭出的 3D 细胞模型",
+      "category": "official",
+      "author": {
+        "name": "Claude",
+        "handle": "claudeai",
+        "url": "https://x.com/claudeai"
+      },
+      "sourceUrl": "https://x.com/claudeai/status/2120174844822298730",
+      "publishedAt": "2026-11-10T15:20:48Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174844822298730-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120174844822298730-video.mp4",
+      "durationSeconds": 134.44,
+      "note": "From Claude's official thread of early Fable 5.2 experiments. Built by @kevin_t_ngo."
+    },
+    {
       "id": "argofowl-859510",
       "title": "A ferrofluid toggle",
       "titleZh": "磁流体开关",
