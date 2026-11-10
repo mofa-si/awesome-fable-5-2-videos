@@ -2229,7 +2229,8 @@
         "landingUrl": "https://suno.bi/mcp",
         "landingUrlZh": "https://suno.bi/zh/mcp",
         "cta": "Make the song with Suno MCP, then turn it into a music video on SunoMV",
-        "ctaZh": "用 Suno MCP 出歌，再到 SunoMV 一键出 MV"
+        "ctaZh": "用 Suno MCP 出歌，再到 SunoMV 一键出 MV",
+        "pagesUrl": "https://suno.bi/prompts/fable-5-2"
       },
       "description": "Music videos made with Claude Fable 5.2: songs generated through Suno (often via the Suno MCP), visuals and edits written by Fable 5.2 in code. Fable 5.2 directs the video. To go from your own song to a finished music video, connect SunoMV to Claude through suno.bi/mcp (song from Suno, music video from SunoMV), or upload the track to the SunoMV music video generator.",
       "descriptionZh": "用 Claude Fable 5.2 做的音乐 MV：歌大多由 Suno 生成（不少走的是 Suno MCP），画面和剪辑由 Fable 5.2 写代码完成。Fable 5.2 负责导演这支视频。想从自己的歌直接做成 MV，可以通过 suno.bi/mcp 把 SunoMV 接进 Claude（Suno 出歌，SunoMV 出 MV），也可以把歌传到 SunoMV 的 MV 生成器。"
