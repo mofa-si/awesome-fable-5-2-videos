@@ -1,8 +1,8 @@
 # A 15-second game ad, same prompt across models
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119921085642899551-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=onurclb_-899551)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119921085642899551-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=onurclb-899551)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=onurclb_-899551)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119921085642899551-video.mp4) · [Source post](https://x.com/onurclb_/status/2119921085642899551)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=onurclb-899551)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119921085642899551-video.mp4) · [Source post](https://x.com/onurclb_/status/2119921085642899551)
 
 - Author / credit: fiko (@onurclb_)
 - Duration: 15.00 seconds

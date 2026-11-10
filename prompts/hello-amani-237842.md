@@ -1,8 +1,8 @@
 # Chromatic metal 3D logo reveal
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119873980786237842-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=hello_amani-237842)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119873980786237842-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=hello-amani-237842)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=hello_amani-237842)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119873980786237842-video.mp4) · [Source post](https://x.com/hello_amani/status/2119873980786237842)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=hello-amani-237842)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119873980786237842-video.mp4) · [Source post](https://x.com/hello_amani/status/2119873980786237842)
 
 - Author / credit: Amani • Design Partner (@hello_amani)
 - Duration: 36.10 seconds

@@ -200,7 +200,7 @@
       "durationSeconds": 64.97
     },
     {
-      "id": "kanaworks_ai-776496",
+      "id": "kanaworks-ai-776496",
       "title": "Fable 5.2 × Seedance 2.5: paper goldfish over Tokyo",
       "titleZh": "Fable 5.2 × Seedance 2.5：东京雨后的纸金鱼",
       "category": "film",
@@ -219,7 +219,7 @@
       "note": "Video footage generated with Seedance 2.5; Fable 5.2 wrote the concept and edit."
     },
     {
-      "id": "m1lad_az-187139",
+      "id": "m1lad-az-187139",
       "title": "The iceberg prompt: Fable 5.2 vs Opus 5.5",
       "titleZh": "冰山提示词：Fable 5.2 对比 Opus 5.5",
       "category": "comparison",
@@ -237,7 +237,7 @@
       "durationSeconds": 11.23
     },
     {
-      "id": "ryoma_nakajima-473233",
+      "id": "ryoma-nakajima-473233",
       "title": "Origami folding, finally working",
       "titleZh": "终于能折出来的折纸",
       "category": "3d",
@@ -255,7 +255,7 @@
       "durationSeconds": 25.56
     },
     {
-      "id": "stefan_3d_ai-894165",
+      "id": "stefan-3d-ai-894165",
       "title": "A castle prompt: Fable 5.2 vs Opus 5.5",
       "titleZh": "城堡提示词：Fable 5.2 对比 Opus 5.5",
       "category": "comparison",
@@ -273,7 +273,7 @@
       "durationSeconds": 31
     },
     {
-      "id": "stefan_3d_ai-333599",
+      "id": "stefan-3d-ai-333599",
       "title": "A sea serpent, animated",
       "titleZh": "会动的海蛇",
       "category": "3d",
@@ -291,7 +291,7 @@
       "durationSeconds": 31.5
     },
     {
-      "id": "takuchang_n-888471",
+      "id": "takuchang-n-888471",
       "title": "Opus 5.5 + Blender vs Fable 5.2 + Three.js",
       "titleZh": "Opus 5.5 + Blender 对比 Fable 5.2 + Three.js",
       "category": "comparison",
@@ -489,7 +489,7 @@
       "durationSeconds": 61.17
     },
     {
-      "id": "patch_gg-771049",
+      "id": "patch-gg-771049",
       "title": "Blender sculpting: Fable 5.2 vs Opus 5.5",
       "titleZh": "Blender 雕刻：Fable 5.2 对比 Opus 5.5",
       "category": "comparison",
@@ -543,7 +543,7 @@
       "durationSeconds": 64.04
     },
     {
-      "id": "_sholtodouglas-925557",
+      "id": "sholtodouglas-925557",
       "title": "An arena FPS with portals",
       "titleZh": "带传送门的竞技场 FPS",
       "category": "game",
@@ -561,7 +561,7 @@
       "durationSeconds": 71.4
     },
     {
-      "id": "hunter_weiss-946900",
+      "id": "hunter-weiss-946900",
       "title": "A one-shot video test",
       "titleZh": "一次生成的视频测试",
       "category": "motion",
@@ -652,7 +652,7 @@
       "note": "Rendered in headless Blender: Fable 5.2 wrote about 4,800 lines of Python (details in the author's follow-up post)."
     },
     {
-      "id": "onurclb_-899551",
+      "id": "onurclb-899551",
       "title": "A 15-second game ad, same prompt across models",
       "titleZh": "同一提示词让各模型做 15 秒游戏广告",
       "category": "comparison",
@@ -688,7 +688,7 @@
       "durationSeconds": 70.55
     },
     {
-      "id": "angaisb_-089926",
+      "id": "angaisb-089926",
       "title": "Somewhere in northern Italy",
       "titleZh": "意大利北部的某处",
       "category": "3d",
@@ -868,7 +868,7 @@
       "durationSeconds": 60
     },
     {
-      "id": "cube__lol-832554",
+      "id": "cube-lol-832554",
       "title": "A 46-second film with zero generated images",
       "titleZh": "一张生成图都没用的 46 秒短片",
       "category": "film",
@@ -922,7 +922,7 @@
       "durationSeconds": 15.05
     },
     {
-      "id": "ici_dab-098351",
+      "id": "ici-dab-098351",
       "title": "\"The most impressive thing I can share\"",
       "titleZh": "「能拿出来分享的最惊艳的东西」",
       "category": "motion",
@@ -1336,7 +1336,7 @@
       "durationSeconds": 53.22
     },
     {
-      "id": "mattshumer_-147409",
+      "id": "mattshumer-147409",
       "title": "A robot you could actually build",
       "titleZh": "一台真能动手造出来的机器人",
       "category": "3d",
@@ -1462,7 +1462,7 @@
       "durationSeconds": 19.07
     },
     {
-      "id": "other__reality-913784",
+      "id": "other-reality-913784",
       "title": "Clawd creates and releases Claude Fable 5.2",
       "titleZh": "Clawd 亲手造出并发布 Claude Fable 5.2",
       "category": "motion",
@@ -1534,7 +1534,7 @@
       "durationSeconds": 41.05
     },
     {
-      "id": "aimi_teno-229421",
+      "id": "aimi-teno-229421",
       "title": "Impressionist pixel art",
       "titleZh": "印象派像素画",
       "category": "film",
@@ -1714,7 +1714,7 @@
       "durationSeconds": 74.88
     },
     {
-      "id": "hello_amani-237842",
+      "id": "hello-amani-237842",
       "title": "Chromatic metal 3D logo reveal",
       "titleZh": "铬金属质感的 3D Logo 揭幕",
       "category": "motion",
@@ -1750,7 +1750,7 @@
       "durationSeconds": 14.55
     },
     {
-      "id": "mattshumer_-483384",
+      "id": "mattshumer-483384",
       "title": "A voxel engine from a single prompt",
       "titleZh": "一句提示词做出的体素引擎",
       "category": "game",
@@ -1786,7 +1786,7 @@
       "durationSeconds": 18.3
     },
     {
-      "id": "kevin_t_ngo-695818",
+      "id": "kevin-t-ngo-695818",
       "title": "Browser game: a boat ride through 8 dreamlike worlds",
       "titleZh": "浏览器小游戏：乘船穿过 8 个梦境世界",
       "category": "game",

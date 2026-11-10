@@ -1,8 +1,8 @@
 # Browser game: a boat ride through 8 dreamlike worlds
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119868968307695818-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=kevin_t_ngo-695818)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119868968307695818-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=kevin-t-ngo-695818)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=kevin_t_ngo-695818)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119868968307695818-video.mp4) · [Source post](https://x.com/kevin_t_ngo/status/2119868968307695818)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=kevin-t-ngo-695818)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119868968307695818-video.mp4) · [Source post](https://x.com/kevin_t_ngo/status/2119868968307695818)
 
 - Author / credit: Kevin Ngo (@kevin_t_ngo)
 - Duration: 57.05 seconds

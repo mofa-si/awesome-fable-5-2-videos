@@ -1,8 +1,8 @@
 # A one-shot video test
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119932937642946900-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=hunter_weiss-946900)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119932937642946900-preview.webp)](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=hunter-weiss-946900)
 
-**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=hunter_weiss-946900)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119932937642946900-video.mp4) · [Source post](https://x.com/Hunter_Weiss/status/2119932937642946900)
+**[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=hunter-weiss-946900)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2119932937642946900-video.mp4) · [Source post](https://x.com/Hunter_Weiss/status/2119932937642946900)
 
 - Author / credit: Hunter Weiss (@Hunter_Weiss)
 - Duration: 118.06 seconds
