@@ -2608,6 +2608,681 @@
       "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120118194409193682-preview.webp",
       "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120118194409193682-video.mp4",
       "durationSeconds": 55.06
+    },
+    {
+      "id": "kevin-t-ngo-923874",
+      "title": "Souls-like boss fight against a golden winged knight, playable in the browser",
+      "titleZh": "浏览器里能玩的魂系 Boss 战：烛光大殿里对决金翼骑士",
+      "category": "game",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+      "publishedAt": "2026-11-10T19:35:07Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120238844754923874-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120238844754923874-video.mp4",
+      "durationSeconds": 137.98
+    },
+    {
+      "id": "loktar00-615271",
+      "title": "Night-time action game with its own models, animations and enemy death effects",
+      "titleZh": "夜色草原上的动作游戏：模型、动画、敌人消散特效全部由 Fable 写出",
+      "category": "game",
+      "author": {
+        "name": "Loktar 🇺🇸",
+        "handle": "loktar00",
+        "url": "https://x.com/loktar00"
+      },
+      "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
+      "publishedAt": "2026-11-10T16:32:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120192761542615271-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120192761542615271-video.mp4",
+      "durationSeconds": 68.05
+    },
+    {
+      "id": "polinaaai-947466",
+      "title": "First-person nature walk through an autumn lodge, rendered at 1080p 60fps",
+      "titleZh": "第一人称漫步秋日林间木屋，1080p 60 帧渲染",
+      "category": "game",
+      "author": {
+        "name": "Polinaa | Ai arc",
+        "handle": "polinaaAi",
+        "url": "https://x.com/polinaaAi"
+      },
+      "sourceUrl": "https://x.com/polinaaAi/status/2120132270249947466",
+      "publishedAt": "2026-11-10T12:31:38Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120132270249947466-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120132270249947466-video.mp4",
+      "durationSeconds": 31.95
+    },
+    {
+      "id": "chongdashu-793883",
+      "title": "Rooftop pickleball game with cartoon players, built in Unreal Engine 5.9",
+      "titleZh": "屋顶匹克球小游戏，卡通球员，用 Unreal Engine 5.9 搭建",
+      "category": "game",
+      "author": {
+        "name": "Chong-U",
+        "handle": "chongdashu",
+        "url": "https://x.com/chongdashu"
+      },
+      "sourceUrl": "https://x.com/chongdashu/status/2120154573356793883",
+      "publishedAt": "2026-11-10T14:00:15Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120154573356793883-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120154573356793883-video.mp4",
+      "durationSeconds": 49.37
+    },
+    {
+      "id": "aecyydesign-487149",
+      "title": "Wind rolling over a hillside of grass and pink wildflowers in Blender",
+      "titleZh": "Blender 里风吹过开满粉色野花的草坡",
+      "category": "3d",
+      "author": {
+        "name": "Szymon",
+        "handle": "aecyydesign",
+        "url": "https://x.com/aecyydesign"
+      },
+      "sourceUrl": "https://x.com/aecyydesign/status/2120239401821487149",
+      "publishedAt": "2026-11-10T19:37:20Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120239401821487149-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120239401821487149-video.mp4",
+      "durationSeconds": 10
+    },
+    {
+      "id": "kevin-t-ngo-622581",
+      "title": "Music video of Claude's orange mascot and a black cat, animated in Python and rendered in Blender",
+      "titleZh": "Claude 橙色小方块和黑猫的音乐 MV，用 Python 做动画、Blender 渲染",
+      "category": "mv",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2120198663062622581",
+      "publishedAt": "2026-11-10T16:55:27Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120198663062622581-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120198663062622581-video.mp4",
+      "durationSeconds": 77
+    },
+    {
+      "id": "chetaslua-324566",
+      "title": "Sketch-to-watercolor animated short in pure JavaScript, starring the Claude mascot",
+      "titleZh": "纯 JavaScript 写出的手绘短片：线稿变水彩，Claude 小方块穿过城市与雪原",
+      "category": "film",
+      "author": {
+        "name": "Chetaslua",
+        "handle": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "sourceUrl": "https://x.com/chetaslua/status/2120179018964324566",
+      "publishedAt": "2026-11-10T15:37:23Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120179018964324566-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120179018964324566-video.mp4",
+      "durationSeconds": 34.34
+    },
+    {
+      "id": "lexnlin-238295",
+      "title": "Claude logo animation: a stack of paper pages folding into a book",
+      "titleZh": "Claude 标志动画：一叠纸页折成一本书",
+      "category": "motion",
+      "author": {
+        "name": "Leon Lin",
+        "handle": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "sourceUrl": "https://x.com/LexnLin/status/2120167637133238295",
+      "publishedAt": "2026-11-10T14:52:10Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120167637133238295-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120167637133238295-video.mp4",
+      "durationSeconds": 30
+    },
+    {
+      "id": "aymericroucher-266080",
+      "title": "River flood wave with its own shallow-water and FLIP particle simulation",
+      "titleZh": "自写浅水与 FLIP 粒子模拟的山间河流洪浪",
+      "category": "3d",
+      "author": {
+        "name": "m_ric",
+        "handle": "AymericRoucher",
+        "url": "https://x.com/AymericRoucher"
+      },
+      "sourceUrl": "https://x.com/AymericRoucher/status/2120247208918266080",
+      "publishedAt": "2026-11-10T20:08:21Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120247208918266080-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120247208918266080-video.mp4",
+      "durationSeconds": 8.42
+    },
+    {
+      "id": "matinsenpai-971263",
+      "title": "15-second kinetic typography motion reel from a single prompt",
+      "titleZh": "一句提示词生成的 15 秒动态字体短片",
+      "category": "motion",
+      "author": {
+        "name": "Matin SenPai",
+        "handle": "MatinSenPai",
+        "url": "https://x.com/MatinSenPai"
+      },
+      "sourceUrl": "https://x.com/MatinSenPai/status/2120210882382971263",
+      "publishedAt": "2026-11-10T17:44:00Z",
+      "prompt": "make a dynamic 15-second motion graphics video",
+      "promptSourceUrl": "https://x.com/MatinSenPai/status/2120210882382971263",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120210882382971263-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120210882382971263-video.mp4",
+      "durationSeconds": 15
+    },
+    {
+      "id": "marcthecreatorr-938083",
+      "title": "Pelican riding a bicycle across five animated seasons: Fable 5.2 vs Gemini 4 Hydrogen",
+      "titleZh": "鹈鹕骑车穿越五个季节的动画 SVG：Fable 5.2 对比 Gemini 4 Hydrogen",
+      "category": "comparison",
+      "author": {
+        "name": "Marcel",
+        "handle": "marcthecreatorr",
+        "url": "https://x.com/marcthecreatorr"
+      },
+      "sourceUrl": "https://x.com/marcthecreatorr/status/2120151349924938083",
+      "publishedAt": "2026-11-10T13:47:26Z",
+      "prompt": "create an svg of a pelican riding a bicycle across five animated seasons.",
+      "promptSourceUrl": "https://x.com/marcthecreatorr/status/2120151349924938083",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120151349924938083-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120151349924938083-video.mp4",
+      "durationSeconds": 45
+    },
+    {
+      "id": "theojaffee-437738",
+      "title": "Interactive map of the Bay Area through 250 years of history, from 1769 to today",
+      "titleZh": "可交互的湾区 250 年变迁地图，从 1769 年一直拖到今天",
+      "category": "game",
+      "author": {
+        "name": "Theo Jaffee",
+        "handle": "theojaffee",
+        "url": "https://x.com/theojaffee"
+      },
+      "sourceUrl": "https://x.com/theojaffee/status/2120312766544437738",
+      "publishedAt": "2026-11-11T00:28:51Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120312766544437738-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120312766544437738-video.mp4",
+      "durationSeconds": 33.35
+    },
+    {
+      "id": "scottstts-007712",
+      "title": "Dragon's Nest: a mountain temple with a coiling dragon in Three.js",
+      "titleZh": "《龙巢》：Three.js 里盘龙环绕的山间寺庙",
+      "category": "3d",
+      "author": {
+        "name": "Scott",
+        "handle": "scottstts",
+        "url": "https://x.com/scottstts"
+      },
+      "sourceUrl": "https://x.com/scottstts/status/2120254108104007712",
+      "publishedAt": "2026-11-10T20:35:46Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120254108104007712-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120254108104007712-video.mp4",
+      "durationSeconds": 60,
+      "note": "3D models generated with Tripo; scene and code by Fable 5.2 in Three.js."
+    },
+    {
+      "id": "iancu-ai-452402",
+      "title": "Opus 5.5 vs Fable 5.2 writing the same Seedance prompt for \"The Bone Queen\"",
+      "titleZh": "同一份需求下 Opus 5.5 与 Fable 5.2 分别写 Seedance 提示词：《骨之女王》对比",
+      "category": "comparison",
+      "author": {
+        "name": "Mr.Iancu",
+        "handle": "Iancu_ai",
+        "url": "https://x.com/Iancu_ai"
+      },
+      "sourceUrl": "https://x.com/Iancu_ai/status/2120156294099452402",
+      "publishedAt": "2026-11-10T14:07:05Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120156294099452402-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120156294099452402-video.mp4",
+      "durationSeconds": 15.05,
+      "note": "Fable 5.2 and Opus 5.5 each wrote the Seedance prompt from the same brief and 3 reference images; the footage itself is rendered by Seedance."
+    },
+    {
+      "id": "orcdev-689199",
+      "title": "Four Elements benchmark in Three.js: fire, earth, water and air from one shared prompt",
+      "titleZh": "Three.js「四元素」测评：同一提示词下的火、土、水、风",
+      "category": "comparison",
+      "author": {
+        "name": "OrcDev",
+        "handle": "orcdev",
+        "url": "https://x.com/orcdev"
+      },
+      "sourceUrl": "https://x.com/orcdev/status/2120248774861689199",
+      "publishedAt": "2026-11-10T20:14:34Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120248774861689199-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120248774861689199-video.mp4",
+      "durationSeconds": 29
+    },
+    {
+      "id": "ebbyamir-673376",
+      "title": "Riding through Van Gogh's Starry Night as a browser game",
+      "titleZh": "把梵高《星月夜》做成可骑行穿越的网页游戏",
+      "category": "game",
+      "author": {
+        "name": "Ebby Amir",
+        "handle": "ebbyamir",
+        "url": "https://x.com/ebbyamir"
+      },
+      "sourceUrl": "https://x.com/ebbyamir/status/2120284261089673376",
+      "publishedAt": "2026-11-10T22:35:35Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120284261089673376-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120284261089673376-video.mp4",
+      "durationSeconds": 53
+    },
+    {
+      "id": "sarlloc-299278",
+      "title": "Dandelion seeds drifting into a pastel sky, one-shot in Three.js",
+      "titleZh": "Three.js 一次成型：蒲公英种子飘进粉彩天空",
+      "category": "3d",
+      "author": {
+        "name": "Sagar ✭",
+        "handle": "sarlloc",
+        "url": "https://x.com/sarlloc"
+      },
+      "sourceUrl": "https://x.com/sarlloc/status/2120199783730299278",
+      "publishedAt": "2026-11-10T16:59:54Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120199783730299278-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120199783730299278-video.mp4",
+      "durationSeconds": 15.5,
+      "note": "Fable 5.2 planned, Opus 5.5 executed (per the author)."
+    },
+    {
+      "id": "apekshik-294786",
+      "title": "Golden-hour meadow with a crashed mech, built in Unreal Engine 5.9",
+      "titleZh": "Unreal Engine 5.9 搭的黄昏草原与坠毁机甲",
+      "category": "3d",
+      "author": {
+        "name": "apek",
+        "handle": "apekshik",
+        "url": "https://x.com/apekshik"
+      },
+      "sourceUrl": "https://x.com/apekshik/status/2120290272043294786",
+      "publishedAt": "2026-11-10T22:59:28Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120290272043294786-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120290272043294786-video.mp4",
+      "durationSeconds": 30
+    },
+    {
+      "id": "stefan-3d-ai-395767",
+      "title": "2,000 years of the Colosseum in 20 seconds, built in Blender: Fable 5.2 vs Opus 5.5",
+      "titleZh": "20 秒看斗兽场两千年，Blender 搭建：Fable 5.2 对比 Opus 5.5",
+      "category": "comparison",
+      "author": {
+        "name": "Stefan 3D AI",
+        "handle": "Stefan_3D_AI",
+        "url": "https://x.com/Stefan_3D_AI"
+      },
+      "sourceUrl": "https://x.com/Stefan_3D_AI/status/2120180695335395767",
+      "publishedAt": "2026-11-10T15:44:03Z",
+      "prompt": "2,000 years of the Colosseum in 20 seconds, from the foundations in AD 70 to today's ruin.",
+      "promptSourceUrl": "https://x.com/Stefan_3D_AI/status/2120180695335395767",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120180695335395767-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120180695335395767-video.mp4",
+      "durationSeconds": 24.42
+    },
+    {
+      "id": "leo114119-440248",
+      "title": "Ruined robot in a forest: Gemini 4 Carbon vs Fable 5.2",
+      "titleZh": "森林废墟机器人动画：Gemini 4 Carbon 对比 Fable 5.2",
+      "category": "comparison",
+      "author": {
+        "name": "Leo · Building w/ AI",
+        "handle": "leo114119",
+        "url": "https://x.com/leo114119"
+      },
+      "sourceUrl": "https://x.com/leo114119/status/2120193171460440248",
+      "publishedAt": "2026-11-10T16:33:38Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120193171460440248-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120193171460440248-video.mp4",
+      "durationSeconds": 42.5,
+      "note": "The Gemini 4 Carbon half is by itsPaulAi (credited by the author)."
+    },
+    {
+      "id": "nicekate8888-055652",
+      "title": "Big Yellow's Autumn: a dog picks persimmons and cooks dinner while waiting for grandma",
+      "titleZh": "短片《大黄的秋天》：大黄狗摘柿子、揉面做饭，等奶奶回家",
+      "category": "film",
+      "author": {
+        "name": "nicekate",
+        "handle": "nicekate8888",
+        "url": "https://x.com/nicekate8888"
+      },
+      "sourceUrl": "https://x.com/nicekate8888/status/2120137138734055652",
+      "publishedAt": "2026-11-10T12:50:58Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120137138734055652-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120137138734055652-video.mp4",
+      "durationSeconds": 43.83
+    },
+    {
+      "id": "createdbyjannn-831323",
+      "title": "A skeletal creature in a misty forest, made end to end with Blender MCP and 3D AI Studio MCP",
+      "titleZh": "雾林里的骷髅怪物，Blender MCP 加 3D AI Studio MCP 全程完成",
+      "category": "3d",
+      "author": {
+        "name": "Jan",
+        "handle": "CreatedByJannn",
+        "url": "https://x.com/CreatedByJannn"
+      },
+      "sourceUrl": "https://x.com/CreatedByJannn/status/2120257446031831323",
+      "publishedAt": "2026-11-10T20:49:02Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120257446031831323-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120257446031831323-video.mp4",
+      "durationSeconds": 15.03
+    },
+    {
+      "id": "izkimar-427276",
+      "title": "A whole universe of floating islands and planets inside a cube",
+      "titleZh": "方块里的整个宇宙：浮岛、行星与瀑布",
+      "category": "3d",
+      "author": {
+        "name": "Izkimar",
+        "handle": "Izkimar",
+        "url": "https://x.com/Izkimar"
+      },
+      "sourceUrl": "https://x.com/Izkimar/status/2120314016375427276",
+      "publishedAt": "2026-11-11T00:33:49Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120314016375427276-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120314016375427276-video.mp4",
+      "durationSeconds": 32.88
+    },
+    {
+      "id": "fe-yukichi-958272",
+      "title": "Elves and fairies collect shards of the broken sun in a Three.js 3D game",
+      "titleZh": "Three.js 3D 游戏：精灵与妖精收集碎裂的太阳碎片",
+      "category": "game",
+      "author": {
+        "name": "ゆきち/ AI",
+        "handle": "fe_yukichi",
+        "url": "https://x.com/fe_yukichi"
+      },
+      "sourceUrl": "https://x.com/fe_yukichi/status/2120160488264958272",
+      "publishedAt": "2026-11-10T14:23:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120160488264958272-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120160488264958272-video.mp4",
+      "durationSeconds": 24.4,
+      "note": "Main character by Opus 5.5, music and sound effects by Suno, everything else by Fable 5.2 (per the author)."
+    },
+    {
+      "id": "haileyailabs-972043",
+      "title": "Retro comic-style music video with a robot and a kill switch, redone with Fable 5.2",
+      "titleZh": "复古漫画风 MV：机器人与关机按钮，用 Fable 5.2 重做同一首歌",
+      "category": "mv",
+      "author": {
+        "name": "Hailey",
+        "handle": "HaileyAILabs",
+        "url": "https://x.com/HaileyAILabs"
+      },
+      "sourceUrl": "https://x.com/HaileyAILabs/status/2120158518946972043",
+      "publishedAt": "2026-11-10T14:15:56Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120158518946972043-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120158518946972043-video.mp4",
+      "durationSeconds": 55.45,
+      "note": "Made through Mirasim, which calls Fable 5.2; same song as the author's earlier Opus 5.5 version."
+    },
+    {
+      "id": "ico-aivideo-680355",
+      "title": "Looping domino chain-reaction across a tea table, made in Blender",
+      "titleZh": "Blender 里循环播放的多米诺连锁：茶桌、闹钟和粉色房间",
+      "category": "3d",
+      "author": {
+        "name": "ICO",
+        "handle": "ICO_AIvideo",
+        "url": "https://x.com/ICO_AIvideo"
+      },
+      "sourceUrl": "https://x.com/ICO_AIvideo/status/2120311646933680355",
+      "publishedAt": "2026-11-11T00:24:24Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120311646933680355-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120311646933680355-video.mp4",
+      "durationSeconds": 21.96,
+      "note": "Blender remake of an earlier code-only Fable 5.2 video, with a similar prompt. Loops."
+    },
+    {
+      "id": "wquguru-378938",
+      "title": "Still life painted in 8,584 code strokes, with a Python-composed score",
+      "titleZh": "8584 笔代码画出的静物油画，配 Python 作曲",
+      "category": "film",
+      "author": {
+        "name": "WquGuru",
+        "handle": "wquguru",
+        "url": "https://x.com/wquguru"
+      },
+      "sourceUrl": "https://x.com/wquguru/status/2120177800288378938",
+      "publishedAt": "2026-11-10T15:32:33Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120177800288378938-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120177800288378938-video.mp4",
+      "durationSeconds": 17.77
+    },
+    {
+      "id": "blendibyl-355262",
+      "title": "\"Impossible spaces\": a trippy walk through rooms that should not fit together",
+      "titleZh": "「不可能空间」：走进互相嵌套的房间",
+      "category": "game",
+      "author": {
+        "name": "Blendi",
+        "handle": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "sourceUrl": "https://x.com/BlendiByl/status/2120314459793355262",
+      "publishedAt": "2026-11-11T00:35:35Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120314459793355262-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120314459793355262-video.mp4",
+      "durationSeconds": 53.27
+    },
+    {
+      "id": "untitled-sys-621058",
+      "title": "A quiet evening room with a record player and monstera, built in Blender from one prompt",
+      "titleZh": "一句提示词在 Blender 里搭出的黄昏房间：唱片机与龟背竹",
+      "category": "3d",
+      "author": {
+        "name": "maggie",
+        "handle": "untitled_sys",
+        "url": "https://x.com/untitled_sys"
+      },
+      "sourceUrl": "https://x.com/untitled_sys/status/2120265921390621058",
+      "publishedAt": "2026-11-10T21:22:42Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120265921390621058-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120265921390621058-video.mp4",
+      "durationSeconds": 20.48
+    },
+    {
+      "id": "avivsh-973144",
+      "title": "Interdimensional portal on a sky deck: Opus 5.5 vs Fable 5.2",
+      "titleZh": "天台上的次元传送门：Opus 5.5 对比 Fable 5.2",
+      "category": "comparison",
+      "author": {
+        "name": "Aviv Sheriff",
+        "handle": "Avivsh",
+        "url": "https://x.com/Avivsh"
+      },
+      "sourceUrl": "https://x.com/Avivsh/status/2120267192700973144",
+      "publishedAt": "2026-11-10T21:27:46Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120267192700973144-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120267192700973144-video.mp4",
+      "durationSeconds": 38.7
+    },
+    {
+      "id": "jpschroeder-851145",
+      "title": "Explorable zen garden with raked sand and a teahouse, one-shot with no external assets",
+      "titleZh": "一次成型的可漫游枯山水庭院与茶室，不用任何外部素材",
+      "category": "game",
+      "author": {
+        "name": "Justin Schroeder",
+        "handle": "jpschroeder",
+        "url": "https://x.com/jpschroeder"
+      },
+      "sourceUrl": "https://x.com/jpschroeder/status/2120274979614851145",
+      "publishedAt": "2026-11-10T21:58:42Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120274979614851145-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120274979614851145-video.mp4",
+      "durationSeconds": 89.23
+    },
+    {
+      "id": "geekcatx-888918",
+      "title": "A world built from scratch by six sub-agents: from a galaxy down to the auroras of a planet",
+      "titleZh": "6 个子代理从零造出的世界：从星系一路拉近到行星极光",
+      "category": "3d",
+      "author": {
+        "name": "知识猫",
+        "handle": "GeekCatX",
+        "url": "https://x.com/GeekCatX"
+      },
+      "sourceUrl": "https://x.com/GeekCatX/status/2120142094756888918",
+      "publishedAt": "2026-11-10T13:10:40Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120142094756888918-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120142094756888918-video.mp4",
+      "durationSeconds": 96
+    },
+    {
+      "id": "nakazakifam-103914",
+      "title": "Edo-period karakuri doll rebuilt in 3D from its original blueprints, mechanism explained",
+      "titleZh": "按江户时代原图纸 3D 复原机关人偶，并讲解机构原理",
+      "category": "3d",
+      "author": {
+        "name": "中崎工房 | AIで1時間の仕事を5分で終わらせる人",
+        "handle": "nakazakifam",
+        "url": "https://x.com/nakazakifam"
+      },
+      "sourceUrl": "https://x.com/nakazakifam/status/2120257523425103914",
+      "publishedAt": "2026-11-10T20:49:20Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120257523425103914-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120257523425103914-video.mp4",
+      "durationSeconds": 184.04
+    },
+    {
+      "id": "genzoh1-641471",
+      "title": "\"Apocalypse Parade\": NES-style pixel music video for a Suno song",
+      "titleZh": "《终末游行》：给 Suno 歌曲做的红白机像素风 MV",
+      "category": "mv",
+      "author": {
+        "name": "Genzoh",
+        "handle": "Genzoh1",
+        "url": "https://x.com/Genzoh1"
+      },
+      "sourceUrl": "https://x.com/Genzoh1/status/2120198026094641471",
+      "publishedAt": "2026-11-10T16:52:55Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120198026094641471-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120198026094641471-video.mp4",
+      "durationSeconds": 135.57,
+      "note": "Lyrics by Genzoh, music by Suno, video by Fable 5.2 in Claude Code with no image or video generation."
+    },
+    {
+      "id": "nokosu-kansoku-718584",
+      "title": "\"Vocoder Heartbreak\": cyber FUI music video for a Suno song",
+      "titleZh": "《Vocoder Heartbreak》：赛博 FUI 风格 MV，歌曲来自 Suno",
+      "category": "mv",
+      "author": {
+        "name": "Nokosu",
+        "handle": "Nokosu_kansoku",
+        "url": "https://x.com/Nokosu_kansoku"
+      },
+      "sourceUrl": "https://x.com/Nokosu_kansoku/status/2120143265370718584",
+      "publishedAt": "2026-11-10T13:15:19Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120143265370718584-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120143265370718584-video.mp4",
+      "durationSeconds": 233,
+      "note": "Music by Suno, visuals by Fable 5.2."
+    },
+    {
+      "id": "mrtacticalx-650632",
+      "title": "A Rubik's Cube solves itself and then shatters, made in Blender",
+      "titleZh": "魔方自己还原后碎成一地，Blender 制作",
+      "category": "3d",
+      "author": {
+        "name": "Mr Tactical",
+        "handle": "MrTacticalX",
+        "url": "https://x.com/MrTacticalX"
+      },
+      "sourceUrl": "https://x.com/MrTacticalX/status/2120202317861650632",
+      "publishedAt": "2026-11-10T17:09:58Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120202317861650632-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120202317861650632-video.mp4",
+      "durationSeconds": 15.4
+    },
+    {
+      "id": "evanmilenko-959503",
+      "title": "Dragon flight game over a coastal town, from scratch in Three.js",
+      "titleZh": "从零写的 Three.js 驾龙飞行游戏，掠过海边小城",
+      "category": "game",
+      "author": {
+        "name": "Evan",
+        "handle": "EvanMilenko",
+        "url": "https://x.com/EvanMilenko"
+      },
+      "sourceUrl": "https://x.com/EvanMilenko/status/2120322640048959503",
+      "publishedAt": "2026-11-11T01:08:05Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120322640048959503-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2120322640048959503-video.mp4",
+      "durationSeconds": 32.45
     }
   ],
   "routes": [
