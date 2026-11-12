@@ -4065,5 +4065,31 @@
       "description": "Music videos made with Claude Fable 5.2: songs generated through Suno (often via the Suno MCP), visuals and edits written by Fable 5.2 in code. Fable 5.2 directs the video. To go from your own song to a finished music video, connect SunoMV to Claude through suno.bi/mcp (song from Suno, music video from SunoMV), or upload the track to the SunoMV music video generator.",
       "descriptionZh": "用 Claude Fable 5.2 做的音乐 MV：歌大多由 Suno 生成（不少走的是 Suno MCP），画面和剪辑由 Fable 5.2 写代码完成。Fable 5.2 负责导演这支视频。想从自己的歌直接做成 MV，可以通过 suno.bi/mcp 把 SunoMV 接进 Claude（Suno 出歌，SunoMV 出 MV），也可以把歌传到 SunoMV 的 MV 生成器。"
     }
+  ],
+  "sponsor": {
+    "name": "DramaSo",
+    "host": "drama.so",
+    "url": "https://drama.so/",
+    "urlZh": "https://drama.so/zh",
+    "imageUrl": "https://bibigpt-apps.chatvid.ai/dramaso/home/en/og-image.jpg",
+    "tagline": "Fable 5.2 writes the script — DramaSo turns it into an AI short drama with real footage. Paste a script or a viral clip, get a storyboard, hear the dialogue, export 9:16 for TikTok, Reels and Shorts.",
+    "taglineZh": "Fable 5.2 写剧本，DramaSo 把它拍成有真实画面的 AI 短剧：贴剧本或爆款片段，自动出分镜、先听台词，再导出 9:16 竖屏短剧，直接发抖音、视频号、小红书。"
+  },
+  "news": [
+    {
+      "date": "2026-11-12",
+      "en": "+42 videos, now 219 from 175 creators.",
+      "zh": "新增 42 条，共 219 条、175 位创作者。"
+    },
+    {
+      "date": "2026-11-11",
+      "en": "+37 videos, now 177.",
+      "zh": "新增 37 条，共 177 条。"
+    },
+    {
+      "date": "2026-11-10",
+      "en": "First release the day after Claude Fable 5.2 launched — 119 videos, 140 by end of day; music videos link to SunoMV.",
+      "zh": "Claude Fable 5.2 发布次日首发 119 条，当天补到 140 条；音乐 MV 类回链 SunoMV。"
+    }
   ]
 }

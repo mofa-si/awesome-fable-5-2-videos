@@ -1,8 +1,18 @@
 # Claude Fable 5.2 视频作品精选
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![videos](https://img.shields.io/badge/videos-219-6b4eff) ![creators](https://img.shields.io/badge/creators-175-ff7a59) ![updated](https://img.shields.io/badge/updated-2026--11--12-2ea44f)
+
 [English](README.md) · 简体中文
 
 收集 X 上用 Claude Fable 5.2（Anthropic）做出的视频作品：发布片、Blender 和 Three.js 里的 3D 场景、浏览器游戏、交互小玩具、纯代码写出的音乐和短片，以及同提示词的模型对比；附原视频文件、创作者署名和公开的原文提示词。Fable 5.2 负责写剧本和代码，想把你自己的创意拍成有真实画面的 AI 短剧，可以带进 DramaSo 直接开拍。音乐 MV 类作品回链 SunoMV。
+
+> 觉得有用就点个 ⭐，Claude Fable 5.2 的新作品每天都在冒出来，我们会持续更新。
+
+## 💝 赞助
+
+<a href="https://drama.so/zh?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable-5-2-videos&amp;utm_content=sponsor"><img src="https://bibigpt-apps.chatvid.ai/dramaso/home/en/og-image.jpg" alt="DramaSo" width="600"></a>
+
+**[DramaSo](https://drama.so/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=sponsor)** — Fable 5.2 写剧本，DramaSo 把它拍成有真实画面的 AI 短剧：贴剧本或爆款片段，自动出分镜、先听台词，再导出 9:16 竖屏短剧，直接发抖音、视频号、小红书。
 
 **[▶ 在 DramaSo 把你的创意拍成 AI 短剧](https://drama.so/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)**
 
@@ -11,6 +21,12 @@
 - **219 条视频**，来自 175 位创作者，持续更新。
 - 30 条附创作者公开的原文提示词；其余明确标注「未公开提示词」，绝不反推编造。
 - 只收 Claude Fable 5.2 发布后的原创作品，署名原作者并链接原帖。每次更新是一轮有边界的采集，不是穷尽索引。
+
+## 📰 更新记录
+
+- **2026-11-12**：新增 42 条，共 219 条、175 位创作者。
+- **2026-11-11**：新增 37 条，共 177 条。
+- **2026-11-10**：Claude Fable 5.2 发布次日首发 119 条，当天补到 140 条；音乐 MV 类回链 SunoMV。
 
 ## 目录
 

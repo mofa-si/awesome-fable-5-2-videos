@@ -1,8 +1,18 @@
 # Awesome Claude Fable 5.2 Videos
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![videos](https://img.shields.io/badge/videos-219-6b4eff) ![creators](https://img.shields.io/badge/creators-175-ff7a59) ![updated](https://img.shields.io/badge/updated-2026--11--12-2ea44f)
+
 English · [简体中文](README.zh-CN.md)
 
 A curated collection of videos made with Claude Fable 5.2 (Anthropic) and shared on X — launch films, 3D scenes in Blender and Three.js, browser games, interactive toys, music and short films written entirely in code, plus same-prompt model comparisons — with original files, creator credits and verbatim public prompts. Fable 5.2 writes the script and the code; to turn your own idea into an AI short drama with real footage, open it in DramaSo. Music videos link to SunoMV instead.
+
+> If this helps, a ⭐ keeps it coming — new Claude Fable 5.2 work is still appearing daily and we keep adding it.
+
+## 💝 Sponsor
+
+<a href="https://drama.so/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable-5-2-videos&amp;utm_content=sponsor"><img src="https://bibigpt-apps.chatvid.ai/dramaso/home/en/og-image.jpg" alt="DramaSo" width="600"></a>
+
+**[DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos&utm_content=sponsor)** — Fable 5.2 writes the script — DramaSo turns it into an AI short drama with real footage. Paste a script or a viral clip, get a storyboard, hear the dialogue, export 9:16 for TikTok, Reels and Shorts.
 
 **[▶ Turn your idea into an AI short drama on DramaSo](https://drama.so/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable-5-2-videos)**
 
@@ -11,6 +21,12 @@ A curated collection of videos made with Claude Fable 5.2 (Anthropic) and shared
 - **219 videos** from 175 creators, and growing.
 - 30 entries include a verbatim public prompt; the rest are marked as not published — we never reconstruct prompts.
 - Only original work posted after the Claude Fable 5.2 release, credited to its creator with a link to the source post. Each update is a bounded collection pass, not an exhaustive index.
+
+## 📰 News
+
+- **2026-11-12**: +42 videos, now 219 from 175 creators.
+- **2026-11-11**: +37 videos, now 177.
+- **2026-11-10**: First release the day after Claude Fable 5.2 launched — 119 videos, 140 by end of day; music videos link to SunoMV.
 
 ## Contents
 
