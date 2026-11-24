@@ -7,7 +7,7 @@
   "description": "A curated collection of videos made with Claude Fable 5.2 (Anthropic) and shared on X — launch films, 3D scenes in Blender and Three.js, browser games, interactive toys, music and short films written entirely in code, plus same-prompt model comparisons — with original files, creator credits and verbatim public prompts. Fable 5.2 writes the script and the code; to turn your own idea into an AI short drama with real footage, open it in DramaSo. Music videos link to SunoMV instead.",
   "descriptionZh": "收集 X 上用 Claude Fable 5.2（Anthropic）做出的视频作品：发布片、Blender 和 Three.js 里的 3D 场景、浏览器游戏、交互小玩具、纯代码写出的音乐和短片，以及同提示词的模型对比；附原视频文件、创作者署名和公开的原文提示词。Fable 5.2 负责写剧本和代码，想把你自己的创意拍成有真实画面的 AI 短剧，可以带进 DramaSo 直接开拍。音乐 MV 类作品回链 SunoMV。",
   "model": "Claude Fable 5.2",
-  "collectedOn": "2026-11-16",
+  "collectedOn": "2026-11-24",
   "publicationCutoffUtc": "2026-11-09T18:00:00Z",
   "maxDurationSeconds": 300,
   "topics": [
@@ -6422,6 +6422,358 @@
       "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122022565317108018-video.mp4",
       "durationSeconds": 87.21,
       "note": "Built with Opus 5.5 and Fable 5.2 together (per the author)."
+    },
+    {
+      "id": "kevin-t-ngo-318416",
+      "title": "Fable 5.2 builds its own voice from scratch in plain Python",
+      "titleZh": "Fable 5.2 用纯 Python 从零做出自己的声音",
+      "category": "motion",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2123980980994318416",
+      "publishedAt": "2026-11-21T03:25:02Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123980980994318416-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123980980994318416-video.mp4",
+      "durationSeconds": 40.43
+    },
+    {
+      "id": "xikhar-122403",
+      "title": "Papertrails: an endless papercraft world that pops up around you",
+      "titleZh": "《Papertrails》：在你身边不断展开的无尽纸艺世界",
+      "category": "game",
+      "author": {
+        "name": "Shikhar",
+        "handle": "xikhar",
+        "url": "https://x.com/xikhar"
+      },
+      "sourceUrl": "https://x.com/xikhar/status/2122682962647122403",
+      "publishedAt": "2026-11-17T13:27:10Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122682962647122403-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122682962647122403-video.mp4",
+      "durationSeconds": 54.45,
+      "note": "Built with Fable 5.2 and Opus 5.5 in Three.js (per the author)."
+    },
+    {
+      "id": "kevin-t-ngo-748790",
+      "title": "San Francisco as an isometric illustrated city, animated in code",
+      "titleZh": "用代码画出的等距插画风旧金山动画",
+      "category": "motion",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2123194632670748790",
+      "publishedAt": "2026-11-18T23:20:22Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123194632670748790-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123194632670748790-video.mp4",
+      "durationSeconds": 51.5
+    },
+    {
+      "id": "danielzambrini-313944",
+      "title": "The world through the eyes of a hummingbird, rendered photorealistically in code",
+      "titleZh": "蜂鸟眼中的世界：全代码写实动画",
+      "category": "film",
+      "author": {
+        "name": "Daniel Zambrini",
+        "handle": "DanielZambrini",
+        "url": "https://x.com/DanielZambrini"
+      },
+      "sourceUrl": "https://x.com/DanielZambrini/status/2124583559256313944",
+      "publishedAt": "2026-11-22T19:19:28Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2124583559256313944-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2124583559256313944-video.mp4",
+      "durationSeconds": 30,
+      "note": "Python scripts drive headless Blender for modeling, animation and rendering; no video model (per the author)."
+    },
+    {
+      "id": "danielzambrini-302141",
+      "title": "A day through the eyes of a squirrel, built and rendered by Python in Blender",
+      "titleZh": "松鼠视角的一天：Python 驱动 Blender 建模渲染",
+      "category": "film",
+      "author": {
+        "name": "Daniel Zambrini",
+        "handle": "DanielZambrini",
+        "url": "https://x.com/DanielZambrini"
+      },
+      "sourceUrl": "https://x.com/DanielZambrini/status/2123360069513302141",
+      "publishedAt": "2026-11-19T10:17:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123360069513302141-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123360069513302141-video.mp4",
+      "durationSeconds": 30,
+      "note": "Built, animated and rendered by Python scripts in Blender Cycles; the sound is synthesized in code (per the author)."
+    },
+    {
+      "id": "bubblebrain-434639",
+      "title": "The world through the eyes of a little cat, with code-made sound",
+      "titleZh": "小猫视角看世界，声音也是代码生成",
+      "category": "film",
+      "author": {
+        "name": "BubbleBrain",
+        "handle": "BubbleBrain",
+        "url": "https://x.com/BubbleBrain"
+      },
+      "sourceUrl": "https://x.com/BubbleBrain/status/2122313967473434639",
+      "publishedAt": "2026-11-16T13:00:55Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122313967473434639-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122313967473434639-video.mp4",
+      "durationSeconds": 110
+    },
+    {
+      "id": "thegeomaster-767239",
+      "title": "A 3D platformer level with concept art, character sheets and models made by Fable 5.2",
+      "titleZh": "Fable 5.2 自己出概念图、角色设定和模型的 3D 平台跳跃关卡",
+      "category": "game",
+      "author": {
+        "name": "David Davidović",
+        "handle": "thegeomaster",
+        "url": "https://x.com/thegeomaster"
+      },
+      "sourceUrl": "https://x.com/thegeomaster/status/2122421921790767239",
+      "publishedAt": "2026-11-16T20:09:53Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122421921790767239-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122421921790767239-video.mp4",
+      "durationSeconds": 62,
+      "note": "Fable 5.2 used Midjourney and GPT Image 2.6 for concept art and textures, then modeled in Blender (per the author)."
+    },
+    {
+      "id": "thaxnay-219939",
+      "title": "A Ramayana action-adventure game playable in the browser",
+      "titleZh": "浏览器里可玩的《罗摩衍那》动作冒险游戏",
+      "category": "game",
+      "author": {
+        "name": "Thaxnay",
+        "handle": "Thaxnay",
+        "url": "https://x.com/Thaxnay"
+      },
+      "sourceUrl": "https://x.com/Thaxnay/status/2124574054296219939",
+      "publishedAt": "2026-11-22T18:41:41Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2124574054296219939-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2124574054296219939-video.mp4",
+      "durationSeconds": 52.03
+    },
+    {
+      "id": "amirmushich-152216",
+      "title": "A robotic hand modeled and animated in Blender: GPT-6.2 Astra vs Fable 5.2",
+      "titleZh": "Blender 里建模并动画的机械手：GPT-6.2 Astra 对比 Fable 5.2",
+      "category": "comparison",
+      "author": {
+        "name": "AmirMušić",
+        "handle": "AmirMushich",
+        "url": "https://x.com/AmirMushich"
+      },
+      "sourceUrl": "https://x.com/AmirMushich/status/2122815524124152216",
+      "publishedAt": "2026-11-17T22:13:55Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122815524124152216-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122815524124152216-video.mp4",
+      "durationSeconds": 11.98
+    },
+    {
+      "id": "kevin-t-ngo-017497",
+      "title": "Hush Hollow: a tilt-the-world puzzle platformer in the browser",
+      "titleZh": "《Hush Hollow》：倾斜世界的浏览器解谜平台游戏",
+      "category": "game",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2122969346935017497",
+      "publishedAt": "2026-11-18T08:25:09Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122969346935017497-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122969346935017497-video.mp4",
+      "durationSeconds": 55.38,
+      "note": "Sound effects and concept art generated on fal (ElevenLabs SFX, GPT Image 2.6); game code by Fable 5.2."
+    },
+    {
+      "id": "moritzkremb-377117",
+      "title": "A tiny lamp's journey across a sunlit room, written entirely in C++",
+      "titleZh": "阳光房间里的小神灯之旅，全部用 C++ 写成",
+      "category": "film",
+      "author": {
+        "name": "Moritz Kremb",
+        "handle": "moritzkremb",
+        "url": "https://x.com/moritzkremb"
+      },
+      "sourceUrl": "https://x.com/moritzkremb/status/2122702891819377117",
+      "publishedAt": "2026-11-17T14:46:21Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122702891819377117-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122702891819377117-video.mp4",
+      "durationSeconds": 53.03,
+      "note": "No video model and no 3D models: the world is written in C++, the sound synthesized in Python, and the camera simulated (per the author)."
+    },
+    {
+      "id": "rubenssoto-ai-566740",
+      "title": "A forest campfire: GPT-6.2 Astra vs Fable 5.2 vs Opus 5.5",
+      "titleZh": "森林篝火：GPT-6.2 Astra、Fable 5.2、Opus 5.5 对比",
+      "category": "comparison",
+      "author": {
+        "name": "Rubens Soto | AI & SaaS",
+        "handle": "rubenssoto_ai",
+        "url": "https://x.com/rubenssoto_ai"
+      },
+      "sourceUrl": "https://x.com/rubenssoto_ai/status/2122879969420566740",
+      "publishedAt": "2026-11-18T02:30:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122879969420566740-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122879969420566740-video.mp4",
+      "durationSeconds": 30
+    },
+    {
+      "id": "ery-treasure-820509",
+      "title": "A summer countryside seen from a frog's eye, made in Blender",
+      "titleZh": "青蛙视角的夏日乡间，Blender 制作",
+      "category": "film",
+      "author": {
+        "name": "えりー｜AI × エンジニア",
+        "handle": "ery_treasure",
+        "url": "https://x.com/ery_treasure"
+      },
+      "sourceUrl": "https://x.com/ery_treasure/status/2123041616688820509",
+      "publishedAt": "2026-11-18T13:12:20Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123041616688820509-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123041616688820509-video.mp4",
+      "durationSeconds": 90
+    },
+    {
+      "id": "kaladinog-930197",
+      "title": "A bee flying through a sunlit flower garden, a small Three.js game demo",
+      "titleZh": "阳光花园里飞行的小蜜蜂，Three.js 小游戏演示",
+      "category": "game",
+      "author": {
+        "name": "ball-zee",
+        "handle": "KaladinOG",
+        "url": "https://x.com/KaladinOG"
+      },
+      "sourceUrl": "https://x.com/KaladinOG/status/2122815191431930197",
+      "publishedAt": "2026-11-17T22:12:36Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122815191431930197-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122815191431930197-video.mp4",
+      "durationSeconds": 22,
+      "note": "Made with Fable 5.2 in Three.js, with fal and ElevenLabs (per the author)."
+    },
+    {
+      "id": "niramayo2096-259130",
+      "title": "A rusting classic car in an abandoned greenhouse, made with Atlas and Three.js",
+      "titleZh": "废弃温室里生锈的老爷车，Atlas 加 Three.js 制作",
+      "category": "3d",
+      "author": {
+        "name": "にらまよ",
+        "handle": "niramayo2096",
+        "url": "https://x.com/niramayo2096"
+      },
+      "sourceUrl": "https://x.com/niramayo2096/status/2123160818502259130",
+      "publishedAt": "2026-11-18T21:06:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123160818502259130-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123160818502259130-video.mp4",
+      "durationSeconds": 20.1,
+      "note": "Made with Atlas, Fable 5.2, Three.js and Suno (per the author)."
+    },
+    {
+      "id": "nexoxh-596157",
+      "title": "A motion-design reel on paper: \"I make things move\"",
+      "titleZh": "纸面上的动效短片：「I make things move」",
+      "category": "motion",
+      "author": {
+        "name": "Nexo",
+        "handle": "Nexoxh",
+        "url": "https://x.com/Nexoxh"
+      },
+      "sourceUrl": "https://x.com/Nexoxh/status/2124382874891596157",
+      "publishedAt": "2026-11-22T06:02:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2124382874891596157-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2124382874891596157-video.mp4",
+      "durationSeconds": 15
+    },
+    {
+      "id": "dstudio-ai-098595",
+      "title": "A mobile-game style lobby screen with a 3D character from Tripo",
+      "titleZh": "手游风格的大厅界面，3D 角色来自 Tripo",
+      "category": "game",
+      "author": {
+        "name": "Nano(ナノ)",
+        "handle": "Dstudio_ai",
+        "url": "https://x.com/Dstudio_ai"
+      },
+      "sourceUrl": "https://x.com/Dstudio_ai/status/2122569461547098595",
+      "publishedAt": "2026-11-17T05:56:09Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122569461547098595-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122569461547098595-video.mp4",
+      "durationSeconds": 60,
+      "note": "3D character from Tripo; lobby screen built by Fable 5.2 after two or three rounds of feedback (per the author)."
+    },
+    {
+      "id": "mizugame-22-844544",
+      "title": "A rainy Kyoto alley at night in Blender: Fable 5.2 vs GPT-6.2 Astra",
+      "titleZh": "雨夜京都小巷（Blender）：Fable 5.2 对比 GPT-6.2 Astra",
+      "category": "comparison",
+      "author": {
+        "name": "MizuGame｜無駄にガチなAI使い",
+        "handle": "mizugame_22",
+        "url": "https://x.com/mizugame_22"
+      },
+      "sourceUrl": "https://x.com/mizugame_22/status/2123403431167844544",
+      "publishedAt": "2026-11-19T13:10:03Z",
+      "prompt": "雨の夜の京都の路地を、写真と見まがうほど写実的に。",
+      "promptSourceUrl": "https://x.com/mizugame_22/status/2123403431167844544",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123403431167844544-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2123403431167844544-video.mp4",
+      "durationSeconds": 13.06,
+      "note": "Top: Fable 5.2, bottom: GPT-6.2 Astra. Both drove Blender themselves from the same one-line prompt."
+    },
+    {
+      "id": "dom-scholz-807696",
+      "title": "A submarine scene in Three.js: Fable 5.2 (242 KB) vs GPT-6.2 Astra (32.9 MB)",
+      "titleZh": "Three.js 潜艇场景：Fable 5.2（242 KB）对比 GPT-6.2 Astra（32.9 MB）",
+      "category": "comparison",
+      "author": {
+        "name": "Dominik Scholz",
+        "handle": "dom_scholz",
+        "url": "https://x.com/dom_scholz"
+      },
+      "sourceUrl": "https://x.com/dom_scholz/status/2122862040326807696",
+      "publishedAt": "2026-11-18T01:18:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122862040326807696-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/fable-5-2/2122862040326807696-video.mp4",
+      "durationSeconds": 40
     }
   ],
   "routes": [
